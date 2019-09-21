@@ -1,0 +1,6 @@
+[{"_id":{"$oid":"5d82fa4e6836f9b755f8b96c"},"name":"kalibata 1","unit":12,"city":"Jakarta"},
+{"_id":{"$oid":"5d82fa596836f9b755f8b96d"},"name":"kalibata 2","unit":18,"city":"Jakarta"},
+{"_id":{"$oid":"5d82fd5f2c9f47865bd932cc"},"name":"kalibata 3","unit":18,"city":"Jakarta"},
+{"_id":{"$oid":"5d82fed3058188bf4f7040d3"},"name":"kalibata 4","unit":18,"city":"Jakarta"},
+{"_id":{"$oid":"5d82fee7058188bf4f7040d4"},"name":"kalibata 5","unit":18,"city":"Jakarta"},
+{"_id":{"$oid":"5d82fef5af646c19f1e88e7a"},"name":"Tamrin City","unit":500,"city":"Bangka Belitung"}]
